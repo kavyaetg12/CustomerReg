@@ -17,7 +17,6 @@
   </dependencies>
   <build>
     <finalName>demo1</finalName>
-  </build>
   <plugins>
 		
 		<plugin>
@@ -30,4 +29,5 @@
 		</plugin>
 		
 	</plugins>
+	  </build>
 </project>
